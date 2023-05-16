@@ -10,7 +10,7 @@ module.exports = defineConfig({
     html: false,
     json: true,
   },
-  projectId: 'd5zibb',
+  projectId: '5r1hac',
   env: {
     db: {
       host: 'db4free.net',
